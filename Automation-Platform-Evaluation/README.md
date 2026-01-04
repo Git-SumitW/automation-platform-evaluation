@@ -1,6 +1,6 @@
 # Automation Platform Evaluation – Product Brief
 
-This repository contains a **product-led evaluation of automation platforms**, focused on cost mechanics, execution behavior, and long-term scalability rather than feature checklists.
+This repository contains a **product-led evaluation of automation platforms**, focused on cost mechanics, execution behavior, and long-term scalability rather than feature checklists and an **investigative report** to support it.
 
 The analysis is written from a **Product Manager perspective**, incorporating development and platform considerations to demonstrate structured decision-making.
 
